@@ -1,0 +1,8 @@
+июн. 14, 2023 9:17:09 AM javaseminar.lesson2.task2.Task2 bubbleSort
+INFO: Результат предварительной сортировки: 4, 1, 5, 2, 8
+июн. 14, 2023 9:17:09 AM javaseminar.lesson2.task2.Task2 bubbleSort
+INFO: Результат предварительной сортировки: 1, 4, 2, 5, 8
+июн. 14, 2023 9:17:09 AM javaseminar.lesson2.task2.Task2 bubbleSort
+INFO: Результат предварительной сортировки: 1, 2, 4, 5, 8
+июн. 14, 2023 9:17:09 AM javaseminar.lesson2.task2.Task2 bubbleSort
+INFO: Итоговый результат сортировки: 1, 2, 4, 5, 8

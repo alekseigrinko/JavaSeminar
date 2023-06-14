@@ -1,0 +1,4 @@
+июн. 14, 2023 9:16:44 AM javaseminar.lesson2.task4.Task4 getResult
+INFO: Задано уравнение: 2? + ?5 = 69
+июн. 14, 2023 9:16:44 AM javaseminar.lesson2.task4.Task4 getResult
+INFO: 24 + 45 = 69
